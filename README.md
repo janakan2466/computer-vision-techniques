@@ -4,6 +4,6 @@ The code templates were provided. Modify the code with your desired image to run
 
 ---
 ### The bird that was used
-![bird](https://github.com/janakan2466/computer-vision/assets/72175053/7615f5eb-84a6-465e-b6d7-7597b004c1d3)
+![bird](https://github.com/janakan2466/computer-vision/assets/72175053/ac7e1ce5-07d9-4cdd-ab5a-9824aa61515c)
 
 
